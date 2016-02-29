@@ -1,4 +1,4 @@
-from tic-tac-cmd import application
+from tictaccmd import application
 
 if __name__ == "__main__":
     application.run()
